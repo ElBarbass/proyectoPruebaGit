@@ -3,4 +3,4 @@ def suma(a, b):
 
 
 def multiplicacion(a, b):
-    returb a*b
+    return a*b
